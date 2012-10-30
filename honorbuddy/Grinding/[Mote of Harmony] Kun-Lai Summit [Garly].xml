@@ -1,0 +1,38 @@
+<HBProfile>
+	<Name>[Mote of Harmony] Kun-Lai Summit [Garly]</Name>
+	<MinDurability>0.3</MinDurability>
+	<MinFreeBagSlots>3</MinFreeBagSlots>
+	<MinLevel>1</MinLevel>
+	<MaxLevel>91</MaxLevel>
+	<MailGrey>False</MailGrey>
+	<MailWhite>True</MailWhite>
+	<MailGreen>True</MailGreen>
+	<MailBlue>True</MailBlue>
+	<MailPurple>True</MailPurple>
+	<SellGrey>True</SellGrey>
+	<SellWhite>True</SellWhite>
+	<SellGreen>False</SellGreen>
+	<SellBlue>False</SellBlue>
+	<SellPurple>False</SellPurple>
+	<Vendors>
+	</Vendors>
+	<Mailboxes>
+		<Mailbox X="3108.07" Y="1236.402" Z="654.1533" />
+	</Mailboxes>
+	<Factions>14 16</Factions>
+	<Grindarea>
+		<AvoidMobs>
+		</AvoidMobs>
+		<Hotspots>
+			<Hotspot X="3468.485" Y="1140.02" Z="659.1661" />
+			<Hotspot X="3479.336" Y="1166.463" Z="656.8782" />
+			<Hotspot X="3471.736" Y="1201.313" Z="654.6402" />
+			<Hotspot X="3497.052" Y="1236.55" Z="643.5946" />
+			<Hotspot X="3532.313" Y="1234.664" Z="643.8248" />
+			<Hotspot X="3552.028" Y="1190.487" Z="642.929" />
+			<Hotspot X="3555.372" Y="1150.608" Z="643.0251" />
+		</Hotspots>
+		<Blackspots>
+		</Blackspots>
+	</Grindarea>
+</HBProfile>
